@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pushpendra9350
-- 👀 I’m interested in Artificail Intelligence and Machine Learinng/Deep Learning
+- 👀 I’m interested in the field of Machine Learinng and Deep Learning
 - 🌱 I’m currently learning how to productionize any machine learning and Neural network on small scale
 - 📫 How to reach me: **LinkedIn:** https://www.linkedin.com/in/pushpendra9350/ and **E-mail:** pushpendra9350@gmail.com
 
