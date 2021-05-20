@@ -3,9 +3,8 @@
                                               
 # Hi 👋, I’m Pushpendra Kumar
 ### Upcoming Data Scientist 
-- 👀 I’m interested in the field of **Machine Learning** and **Deep Learning**
-- 🌱 I’m currently learning  **machine learning and Deep Learning**
-- 🕸 My website For Data Science community: https://indeepdata.com 
+- 👀 I’m interested and also currently learning **Machine Learning** and **Deep Learning**
+- 🕸 My website For Data Science community go and check this out: https://indeepdata.com 
 - 📫 How to reach me: **E-mail:** pushpendra9350@gmail.com
 
 ### Connect with me on LinkedIn
