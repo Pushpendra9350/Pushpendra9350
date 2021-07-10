@@ -4,8 +4,8 @@
 # Hi 👋, I’m Pushpendra Kumar
 <!-- ### Upcoming Data Scientist -->
 ![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=green)
-- 👀 I’m interested and also learning **Machine Learning** and **Deep Learning**
-- 🕸 My website For Data Science community go and check this out: https://indeepdata.com 
+- 👀 I’m interested and also **learning Programming, Software development** and **Machine Learning**
+- 🕸 Website For Data Science community created by me go and check this out: https://indeepdata.com 
 - 📫 How to reach me: **E-mail:** pushpendra9350@gmail.com
 
 ### Connect with me on LinkedIn
