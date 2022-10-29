@@ -3,11 +3,11 @@
                                               
 # Hi 👋, I’m Pushpendra Kumar
 <!-- ### Upcoming Data Scientist -->
-![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=green)
+![](https://komarev.com/ghpvc/?username=Pushpendra9350&color=blue)
+- 👀 Visit to know more: **Personal Website:** https://pushpendrakumar.com/
 - 👀 I’m interested and also learning **Programming, Software development** and **Machine Learning**
 - 🕸 Website For Data Science community created by me go and check this out: https://indeepdata.com 
-- 📫 How to reach me: **E-mail:** pushpendra9350@gmail.com
-- 👀 Visit to know more: **Personal Website:** https://pushpendrakumar.com/
+- 📫 How to reach me: **E-mail:** pushpendra.me.dev@gmail.com
 - For Graphics Designing services visit https://localgraphix.com
 
 ### Connect with me on LinkedIn
